@@ -63,9 +63,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joetal24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Joel's GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=joetal24&theme=tokyonight&hide_border=true" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joetal24&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joetal24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joetal24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joetal24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joetal24&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
