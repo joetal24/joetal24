@@ -54,7 +54,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🗺️ PlotSure](https://github.com/joetal24/plotsure-verify) | AI + GIS land title verification platform for Uganda | FastAPI · PostgreSQL · Neo4j · scikit-learn · Google Maps · Solidity |
+| [🗺️ PlotSure](https://github.com/joetal24/plotsure-verify) | AI + GIS land title verification platform for Uganda | FastAPI · PostgreSQL · Neo4j · scikit-learn · Google Maps  |
 | 🌾 Smart-Shamba | Agricultural analytics lakehouse for Ugandan smallholder farmers | Python · DuckDB · dbt · Streamlit |
 | 📈 Market Pulse | Real-time financial data streaming dashboard | FastAPI · FinBERT · vectorbt · Docker |
 
